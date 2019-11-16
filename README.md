@@ -1,6 +1,6 @@
-# Brainfuck language compiler in Lua
+# Brainfuck Language Interpreter in Lua
 
-Brainfuck is an esoteric language. A strangely simple esoteric language. That means it's not really useful for day-to-day challenges, but for having fun with building a very simple compiler.
+Brainfuck is an esoteric language. A strangely simple esoteric language. That means it's not really useful for day-to-day challenges, but for having fun with building a very simple compiler/interpreter.
 
 Brainfuck works much like a Turing Machine: a (nearly infinite) tape, a head, and a state register. Plus input and output operators and loops. To read more about brainfuck, check out its article on Esolang [here](https://esolangs.org/wiki/Brainfuck)!
 
